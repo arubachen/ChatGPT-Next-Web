@@ -484,9 +484,9 @@ export function ImagePreviewer(props: {
           </div>
 
           <div>
-            <div className={styles["main-title"]}>ChatGPT Next Web</div>
+            <div className={styles["main-title"]}>Mis私人秘书</div>
             <div className={styles["sub-title"]}>
-              baidu.com
+              www.baidu.com
             </div>
             <div className={styles["icons"]}>
               <ExportAvatar avatar={config.avatar} />
